@@ -26,8 +26,8 @@ btnYes.addEventListener("click", () => {
           margin-bottom:20px;
         ">
         <h1>Sabía que dirías que sí 💖</h1>
-        <p> Gracias por existir y hacerme tan feliz eres lo mejor que me paso en la vida princesa Te Amo Amor 💕</p>
-         <p> "CON MUCHO AMOR, GIUSEP</p>
+        <p> Gracias por existir y hacerme tan feliz amor, eres lo mejor que me paso en la vida princesa Te Amo Amor 💕</p>
+         <p> "CON MUCHO AMOR Y CARIÑO, GIUSEP</p>
     </div>
   `;
 });
@@ -40,3 +40,4 @@ btnNo.addEventListener("mouseover", () => {
   btnNo.style.left = x + "px";
   btnNo.style.top = y + "px";
 });
+
